@@ -1,3 +1,5 @@
+# Esercizi Python
+
 | Nome Cartella      | Descrizione                                                |
 | ------------------ | ---------------------------------------------------------- |
 | cartellaPDF        | dalldel PDF delle verniciature creo il file Excel relativo |
